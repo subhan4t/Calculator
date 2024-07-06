@@ -1,6 +1,6 @@
-index.html
+"CALCULATOR"
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,13 +42,10 @@ index.html
     <script src="script.js"></script>
 </body>
 </html>
-
-
 ```
+# CSS EXAMPLE
 
-styles.css
-
-```
+```css
 body {
     margin: 0;
     display: flex;
@@ -120,13 +117,11 @@ button.equal {
     grid-column: span 2;
     background: #16d348;
 }
-
-
 ```
 
-script.js
+# JAVASCRIPT
 
-```
+```javascript
 let resultDisplay = document.getElementById('result');
 
 function clearDisplay() {
@@ -151,7 +146,7 @@ function calculateResult() {
 
 ```
 
-OUTPUT:
+### OUTPUT:
 ![Output1](output/Output1.png)
 ![Output1](output/Output2.png)
 
