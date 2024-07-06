@@ -152,5 +152,9 @@ function calculateResult() {
 ```
 
 OUTPUT:
+![Output1](output/Output1.png)
+![Output1](output/Output2.png)
+
+
 
 
